@@ -6,5 +6,3 @@ venv
 tpl/style.css
 .DS_Store
 tpl/.sass-cache
-tpl/for_test.html
-tpl/style.sass
