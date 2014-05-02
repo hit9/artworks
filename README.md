@@ -1,13 +1,7 @@
 artworks
 ========
-Ascii text artworks collection of my projects
 
-List
-----
-
-- quill.txt, quill, https://github.com/hit9/quill
-- skylark.txt, skylark, https://github.com/hit9/skylark
-- rux.bat.txt, bat, https://github.com/hit9/rux
+Artworks for each my project on Github.
 
 Usage
 ------
@@ -18,8 +12,26 @@ Usage
 - wkhtmltoimage
 - sass
 
-example:
+```bash
+Usage:
+scripy.py <art.txt> [<name>] [--width=<width>]
+```
+
+Sample
+------
 
 ```
-scripy.py skylark Skylark --width=400
+        /)
+       / )
+(\    /  )
+( \  /   )
+ ( \/ / )
+ (@)   )
+ / \_   \
+    // \\\
+    ((   \\
+   ~ ~ ~   \
+  skylark
 ```
+
+![](png/Skylark.png)
